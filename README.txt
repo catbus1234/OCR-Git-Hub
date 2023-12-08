@@ -14,7 +14,8 @@ Before running the script, ensure you have the following installed:
 - For detailed instructions, visit github link: https://github.com/UB-Mannheim/tesseract/wiki
 
 ## Cloning Repository from GitHub
-1.   
+1.   open terminal
+2.   run this command: "git clone https://github.com/catbus1234/OCR-Git-Hub.git"
 
 
 ## Extracting files
