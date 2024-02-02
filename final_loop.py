@@ -134,8 +134,3 @@ for photo in os.listdir(cd): #for each photo
 
 df.to_excel('database2.xlsx', index=False)
 
-#work on: if yes image, if no image
-#if image exists: bound = (240, 250, 700, 290)
-#if image doesn't exist: bound = (10, 250, 700, 290)
-#if pronouns exist: 
-
