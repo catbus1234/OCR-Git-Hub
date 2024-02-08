@@ -23,6 +23,26 @@ Before running the script, ensure you have the following installed:
 2. In script unpacking_data.py, change line 2's ZIP file name
 3. Run following line in terminal: unpacking_data.py
 
+## Installing packages
+1. pip: pip is the package management system in python. 
+    a. Open terminal 
+    b. curl https://bootstrap.pypa.io/get-pip.py -o get-pip.py
+    c. python get-pip.py
+    d. python -m pip help
+    e. copy usage path to paste later
+    f. open environmental variables
+    g. click environmental variables
+    h. double click path variable to edit
+    i. select new and paste copied path in 
+    j. click ok to apply changes
+2. Pandas: dataframe modification
+    a. open vscode terminal
+    b. pip install pandas
+3. Pillow: image reading package
+    a. python3 -m pip install --upgrade pip
+    b. python3 -m pip install --upgrade Pillow
+Be sure to restart VSCode after.
+
 ## Running script
 1. In final_loop.py, change line 19's address to the image folder's address
 2. Run the following line in terminal: final_loop.py
