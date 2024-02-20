@@ -33,14 +33,20 @@ Before running the script, ensure you have the following installed:
     f. open environmental variables
     g. click environmental variables
     h. double click path variable to edit
-    i. select new and paste copied path in 
-    j. click ok to apply changes
+    i. select new and paste copied path in
+    j. environmental variables should contain the following paths:
+        1. C:\Users\josh2\AppData\Local\Programs\Python\Launcher\
+        2. C:\Users\josh2\AppData\Local\Programs\Python\Python312\
+        3. C:\Users\josh2\AppData\Local\Programs\Python\Python312\Scripts\
+    k. click ok to apply changes
 2. Pandas: dataframe modification
     a. open vscode terminal
     b. pip install pandas
 3. Pillow: image reading package
     a. python3 -m pip install --upgrade pip
     b. python3 -m pip install --upgrade Pillow
+4. Openpyxl: modifying excel files
+    a. pip install openpyxl
 Be sure to restart VSCode after.
 
 ## Running script
